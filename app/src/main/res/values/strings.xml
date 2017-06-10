@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="title_activity_games_list">GamesList</string>
+    <string name="refresh">Pobieranie listy gier</string>
+    <string name="your_turn">Twoja kolej.\nWybierz kolumnę by dodać swój krążek.\n\n</string>
+    <string name="wait">Poczekaj na przeciwnika.\nRegularnie odświeżaj planszę.\n\n</string>
+    <string name="error">Ruch niemożliwy.\nSpróbuj ponownie.\n\n</string>
+    <string name="connection">Trwa przesyłanie danych na serwer.\nPoczekaj chwilkę.\n\n</string>
+    <string name="network_error">Wystąpił błąd z siecią.\nWróć do listy dostępnych gier.\n\n</string>
+    <string name="new_game">Rozpocznij nową grę.\nWybierz kolumnę by dodać swój krążek.\n\n</string>
+    <string name="empty_list">Niestety brak gier, w które mógłbyś zagrać.\nUtwórz nową!</string>
+    <string name="win">Gratulacje, wygrałeś tą rozgrywkę.\nZagraj ponownie!</string>
+    <string name="lose">Niestety, przegrałeś tą rozgrywkę.\nZagraj ponownie!</string>
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="_4_in_row">4 In Row</string>
+
+</resources>
